@@ -1,5 +1,5 @@
-API_TOKEN = "7126247926:AAFBamcOWw1ij4IL1w_-gFX6B8FI3yNneXs"
-ADMIN_ID = [6116909712]
+API_TOKEN = "71262s"
+ADMIN_ID = [123456]
 BOT = "https://t.me/mybrogiveBot"
 
 #  @ - belgisi bilan!
